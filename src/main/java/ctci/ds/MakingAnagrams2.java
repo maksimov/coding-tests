@@ -1,4 +1,4 @@
-package ds;
+package ctci.ds;
 
 import java.util.Arrays;
 import java.util.Scanner;

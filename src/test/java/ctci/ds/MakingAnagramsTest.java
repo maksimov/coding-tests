@@ -1,4 +1,4 @@
-package ds;
+package ctci.ds;
 
 import org.junit.Test;
 
